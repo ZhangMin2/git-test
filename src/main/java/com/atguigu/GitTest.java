@@ -10,7 +10,7 @@ public class GitTest {
 
         System.out.println("zhaotaoshima");
         System.out.println("zhaotaoshi master-test");
-
+        System.out.println("pull master-test");
 
     }
 }
